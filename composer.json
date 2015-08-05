@@ -22,7 +22,7 @@
     "fancyguy/webroot-installer": "1.0.0"
   },
   "extra": {
-    "webroot-dir": "docroot/wordpress",
+    "webroot-dir": "/var/www/html/wordpress/",
     "webroot-package": "wordpress"
   }
 }
